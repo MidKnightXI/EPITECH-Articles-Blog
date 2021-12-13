@@ -74,15 +74,15 @@ Distro connue pour sa complexité d'installation et sa tendance à l'autodestruc
 > - Complexité d'installation
 > - Mises à jour non testées
 
-### [Télécharger Arch Linux](https://archlinux.org/download/)
+### [Télécharger Arch Linux][1]
 
 
-## <br>Distro #4 : Fedora
+## <br>Distro #4 : [Fedora][3]
 
 ![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/8/8f/Fedora_logo_%282021%29.svg?uselang=fr "Fedora Logo")
 
 Première sortie en **2002**<br>
-Crée par [**Red Hat**](https://fr.wikipedia.org/wiki/Red_Hat)
+Crée par [**Red Hat**][2]
 
 Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
 
@@ -96,7 +96,7 @@ Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
 > - Mises à jour longues et lourdes
 > - Stabilité sur court terme
 
-### [Télécharger Fedora](https://getfedora.org/fr/workstation/download/)
+### [Télécharger Fedora][3]
 
 <br><br>
 
@@ -112,3 +112,12 @@ Et puis l'avantage de Linux, c'est que la séparation des partitions vous permet
 
 Pour connaitre d'avantages de distro, mieux vaut faire un tour sur [DistroWatch](https://distrowatch.com)
 <br>Ce site repertorie quasiment toutes les distro existantes.
+
+# Références
+- https://archlinux.org/download/
+- https://fr.wikipedia.org/wiki/Red_Hat
+- https://getfedora.org/fr/workstation/download/
+
+[1]: https://archlinux.org/download/
+[2]: https://fr.wikipedia.org/wiki/Red_Hat
+[3]: https://getfedora.org/fr/workstation/download/

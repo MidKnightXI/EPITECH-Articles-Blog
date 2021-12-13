@@ -138,3 +138,27 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 >
 > - Performances similaires à GNOME -> c'est LOURD
 > - Ça ressemble BEAUCOUP à Windows
+
+| col1 | col2 | col3|
+|------|------|-----|
+| xfce | gnome|cinnamon|
+
+<table>
+<tr>
+<td> xfce </td>
+<td> gnome </td>
+</tr>
+<tr>
+<td> xfce </td>
+<td> gnome </td>
+</tr>
+<tr>
+<td> xfce </td>
+<td> gnome </td>
+</tr>
+<tr>
+<td> xfce </td>
+<td> gnome </td>
+</tr>
+</table>
+
