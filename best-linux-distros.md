@@ -45,10 +45,15 @@ Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnais
 > - Légère
 > - Stabilité accrue
 > - Modulable
+> - Setup complet laissant beaucoup de choix à l'utilisateur
 
 > ### Les Moins
 > - Deux gestionnaires de paquets (apt et apt-get) créant une confusion
 > - Mauvaise gestion des drivers GPU Intel
+> - Pensée pour une utilisation Serveur et non Desktop
+
+### [Télécharger Debian](https://www.debian.org/CD/http-ftp/)
+
 
 ## Distro #3 : Arch Linux
 
@@ -69,6 +74,32 @@ Distro connue pour sa complexité d'installation et sa tendance à l'autodestruc
 > - Peu de sécurité
 > - Complexité d'installation
 > - Mises à jour non testées
+
+### [Télécharger Arch Linux](https://archlinux.org/download/)
+
+
+## Distro #4 : Fedora
+
+![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/8/8f/Fedora_logo_%282021%29.svg?uselang=fr "Fedora Logo")
+
+Première sortie en **2002**<br>
+Crée par [**Red Hat**](https://fr.wikipedia.org/wiki/Red_Hat)
+
+Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
+
+> ### Les Plus
+> - Stabilité sur long terme
+> - Mises à jour des paquets fortement testées
+> - Gestionnaire de paquets complet
+
+> ### Les Moins
+> - OS très lourd en performances et en taille
+> - Mises à jour longues et lourdes
+> - Stabilité sur court terme
+
+### [Télécharger Fedora](https://getfedora.org/fr/workstation/download/)
+
+<br><br>
 
 ## Récapitulatif
 
