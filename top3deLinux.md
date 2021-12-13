@@ -10,7 +10,7 @@ pas forcément adéquate pour tout le monde.
 
 ## 1. XFCE, la fluidité et les performances avant tout
 
-![XFCE logo png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.fr%2Fpng-t7oivy%2F&psig=AOvVaw3RHYVDOnu_YUGGcAq0zFw-&ust=1639483833811000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjC0a7f4PQCFQAAAAAdAAAAABAD)
+![XFCE logo png](https://en.wikipedia.org/wiki/File:Xfce_logo.svg "XFCE logo")
 
 Sorti en 1996, XFCE a été développé pour ressembler le plus possible à Common Desktop et aux
 premières interfaces de macOS. XFCE est un des DE les moins gourmant en mémoire vive et est le
