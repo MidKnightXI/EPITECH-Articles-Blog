@@ -39,6 +39,7 @@ qui peut être vraiment customisé.
 > - très stable
 > - customisable
 
+
 > ### Les -
 > 
 > - peut  causer des problèmes de performance sur de vieux systèmes
@@ -56,10 +57,12 @@ navigation avec votre clavier exclusivement.
 > - raccourcis clavier qui facilitent la vie
 > - personalisable de A à Z
 
+
 > ### Les -
 >
 > - compliqué pour les débutants sur GNU/Linux
 > - courbe d'apprentissage d'utilisation plutôt longue
+
 
 ## 4. GNOME, la simplicité pour le grand public
 
@@ -71,6 +74,7 @@ la communauté Linux mais est un des DE les plus utilisé aujourd'hui.
 > - simple d'utilisation
 > - user friendly
 > - interface simple d'utilisation
+
 
 > ### Les -
 >
@@ -87,11 +91,11 @@ développé pour leur propre distribution possédant le même nom
 > - simple d'utilisation pour des débutant
 > - bonne UI/UX
 
+
 > ### Les -
 >
 > - utiliser Deepin avec sa distribution peut être un problème pour vos données 
 > (c'est dev par une entreprise chinoise)
-
 
 
 ## 6. Cinnamon, Windows ?? C'est quoi ça ?
@@ -104,6 +108,7 @@ Développé pour la distribution Linux Mint, Cinnamon a été dev dans l'intente
 > - Super pour une transition de Windows à Linux
 > - UI/UX satisfaisante
 > - simple d'utilisation
+
 
 > ### Les -
 >
