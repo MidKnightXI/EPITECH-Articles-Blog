@@ -18,17 +18,17 @@ premières interfaces de macOS.
 XFCE est un des DE les moins gourmant en mémoire vive et est le
 plus souvent utilisé pour redonner une seconde vie à de vieux PC.
 
-> ### les Plus
+> ### Les Plus
 >
-> - interface simpliste
-> - peu consomateur en performances
-> - configurable de A à Z
+> - Interface simpliste
+> - Peu consomateur en performances
+> - Configurable de A à Z
 
 
-> ### les Moins
+> ### Les Moins
 >
-> - le design de l'interface peu paraitre vieillot
-> - les menus peuvent être parfois déroutants
+> - Le design de l'interface peu paraitre vieillot
+> - Les menus peuvent être parfois déroutants
 
 
 ## 2. KDE Plasma, stabilité et customisation
@@ -40,16 +40,16 @@ Sorti en 1998, KDE Plasma possède 3 versions dont une pour tablette.
 C'est l'un des DE les plus appréciés de la communauté Linux grâce à son interface similaire à
 Windows en version stock mais qui peut être vraiment customisé.
 
-> ### les Plus
+> ### Les Plus
 > 
-> - simple d'utilisation
-> - très stable
-> - customisable
+> - Simple d'utilisation
+> - Très stable
+> - Customisable
 
 
-> ### les Moins
+> ### Les Moins
 > 
-> - peut  causer des problèmes de performance sur de vieux systèmes
+> - Peut  causer des problèmes de performance sur de vieux systèmes
 
 
 ## 3. I3, le maitre de la productivité
@@ -63,17 +63,17 @@ Comment ça, naviguer avec un clavier ?
 Et oui i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous permettera de faire une
 navigation avec votre clavier exclusivement.
 
-> ### les Plus
+> ### Les Plus
 >
-> - léger/bonnes performances sur d'anciens système
-> - raccourcis clavier qui facilitent la vie
-> - personalisable de A à Z
+> - Léger/bonnes performances sur d'anciens système
+> - Raccourcis clavier qui facilitent la vie
+> - Personalisable de A à Z
 
 
-> ### les Moins
+> ### Les Moins
 >
-> - compliqué pour les débutants sur GNU/Linux
-> - courbe d'apprentissage d'utilisation plutôt longue
+> - Compliqué pour les débutants sur GNU/Linux
+> - Courbe d'apprentissage d'utilisation plutôt longue
 
 
 ## 4. GNOME, la simplicité pour le grand public
@@ -85,16 +85,16 @@ la communauté Linux mais est un des DE les plus utilisé aujourd'hui.
 
 Gnome est maintenant développé en collaboration avec Canonical, les développeurs d'Ubuntu.
 
-> ### les Plus
+> ### Les Plus
 >
-> - simple d'utilisation
-> - user friendly
-> - interface simple d'utilisation
+> - Simple d'utilisation
+> - User friendly
+> - Interface simple d'utilisation
 
 
-> ### les Moins
+> ### Les Moins
 >
-> - l'un des DE avec les pires performances
+> - L'un des DE avec les pires performances
 
 
 ## 5. Deepin, le petit frère chinois de Gnome
@@ -105,17 +105,19 @@ Développé par Deepin Wuhuan Technology depuis 2004.
 
 Deepin est un un DE les plus avancé et récent développé pour leur propre distribution possédant le même nom.
 
-> ### les Plus
+> ### Les Plus
 >
-> - simple d'utilisation pour des débutant
-> - bonne UI/UX
+> - Simple d'utilisation pour des débutant
+> - Bonne UI/UX
 
 
-> ### les Moins
+> ### Les Moins
 >
-> - utiliser Deepin avec sa distribution peut être un problème pour vos données 
+> - Utiliser Deepin avec sa distribution peut être un problème pour vos données 
 > (entreprise chinoise)
 
+
+> [Download the Deepin ISO here](http://cdimage.deepin.com/releases/20.3/deepin-desktop-community-20.3-amd64.iso)
 
 ## 6. Cinnamon, Windows ?? C'est quoi ça ?
 
@@ -127,14 +129,14 @@ Développé pour la distribution Linux Mint, Cinnamon a été dev dans l'intente
 
 Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 2011.
 
-> ### les Plus
+> ### Les Plus
 >
 > - Super pour une transition de Windows à Linux
 > - UI/UX satisfaisante
-> - simple d'utilisation
+> - Simple d'utilisation
 
 
-> ### les Moins
+> ### Les Moins
 >
-> - performances similaires à GNOME -> c'est LOURD
-> - ça ressemble BEAUCOUP à Windows
+> - Performances similaires à GNOME -> c'est LOURD
+> - Ça ressemble BEAUCOUP à Windows
