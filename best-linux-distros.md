@@ -14,7 +14,7 @@ Voici donc selon moi le classement des top distro linux mainstream, pour une uti
 Première sortie le **20 octobre 2004**<br>
 Crée et maintenue par la société [**CANONICAL**][5]
 
-Elle est désormais la distribution linux la plus connue au monde pour sa simplicité d'utilisation
+Elle est désormais la distribution linux la plus connue au monde pour sa simplicité d'utilisation. Elle répondra alors à tous les besoins basiques d'un utilisateur lambda
 <br>Deux versions disponibles : une normale mise à jour tous les 6 mois et une LTS tous les 2 ans
 
 <table>
@@ -46,7 +46,8 @@ Elle est désormais la distribution linux la plus connue au monde pour sa simpli
 Crée par [**Ian Murdock**][6]
 
 Distro aujourd'hui mère de milliers d'autres distributions.<br>
-Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnaissance de stabilité et de performance.
+Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnaissance de stabilité et de performance. <br>
+Je la conseille pour avoir plus la main que sous Ubuntu, en gardant la même base.
 
 <table>
   <tr>
@@ -86,7 +87,8 @@ Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnais
 Crée par [**Judd Vinet**][8]
 
 Distro connue pour sa complexité d'installation et sa tendance à l'autodestruction
-<br>Elle est recommandée aux utilisateurs avancés de linux, car son installation n'a rien d'automatique, laissant l'utilisateur livré à lui-même et ses manuels.
+<br>Elle est recommandée aux utilisateurs avancés de linux, car son installation n'a rien d'automatique, laissant l'utilisateur livré à lui-même et ses manuels.<br>
+Elle est parfaite pour apprendre de fond en combles le fonctionnement de sa machine ainsi que de linux
 
 <table>
   <tr>
@@ -122,6 +124,7 @@ Distro connue pour sa complexité d'installation et sa tendance à l'autodestruc
 Crée par [**Red Hat**][2]
 
 Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
+<br> Elle s'oriente plus pour ceux qui veulent un système ultra fiable, éloigné de tout bug primaire
 
 <table>
   <tr>
