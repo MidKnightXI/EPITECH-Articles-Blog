@@ -233,14 +233,10 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
   </tr>
   <tr>
     <td>User friendly</td>
-    <td></td>
+    <td>Performances</td>
   </tr>
   <tr>
-    <td></td>
     <td>Bonne UI/UX</td>
-  </tr>
-  <tr>
-    <td></td>
     <td></td>
   </tr>
 </table>
