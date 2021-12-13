@@ -10,6 +10,7 @@ Voici donc selon moi le classement des top distro linux mainstream, pour une uti
 ## Distro #1 : Ubuntu
 
 ![Ubuntu Logo](https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Logo.png "Ubuntu Logo")
+
 Première sortie le **20 octobre 2004**<br>
 Crée et maintenue par la société [**CANONICAL**](https://canonical.com/)
 
@@ -32,6 +33,7 @@ Elle est désormais la distribution linux la plus connue au monde pour sa simpli
 ## Distro #2 : Debian
 
 ![Debian Logo](https://www.recia.fr/wp-content/uploads/2015/06/debian-logo-horizontal.gif "Debian Logo")
+
 Première sortie le **16 août 1993**<br>
 Crée par [**Ian Murdock**](https://fr.wikipedia.org/wiki/Ian_Murdock)
 
@@ -47,6 +49,26 @@ Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnais
 > ### Les Moins
 > - Deux gestionnaires de paquets (apt et apt-get) créant une confusion
 > - Mauvaise gestion des drivers GPU Intel
+
+## Distro #3 : Arch Linux
+
+![Arch Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Arch_Linux_logo.svg "Arch Logo")
+
+Première sortie en **Mars 2002**<br>
+Crée par [**Judd Vinet**](https://fr.wikipedia.org/wiki/Judd_Vinet)
+
+Distro connue pour sa complexité d'installation et sa tendance à l'autodestruction
+<br>Elle est recommandée aux utilisateurs avancés de linux, car son installation n'a rien d'automatique, laissant l'utilisateur livré à lui-même et ses manuels.
+
+> ### Les Plus
+> - Mises à jour instantanées
+> - Gestionnaire de paquets performant pour la gestion de dépendances
+> - Communauté énorme (AUR)
+
+> ### Les Moins
+> - Peu de sécurité
+> - Complexité d'installation
+> - Mises à jour non testées
 
 ## Récapitulatif
 
