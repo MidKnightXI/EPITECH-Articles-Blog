@@ -30,6 +30,30 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC.
 > - Le design de l'interface peu paraitre vieillot
 > - Les menus peuvent être parfois déroutants
 
+<table>
+  <tr>
+    <td>
+      <b>Plus</b>
+    </td>
+    <td>
+      <b>
+        Moins
+      </b>
+    </td>
+  </tr>
+  <tr>
+    <td>Interface simple</td>
+    <td>Design dépassé</td>
+  </tr>
+  <tr>
+    <td>Léger/fluide</td>
+    <td>UX déroutante</td>
+  </tr>
+  <tr>
+    <td>Interface totalement configurable</td>
+    <td></td>
+  </tr>
+</table>
 
 ## 2. KDE Plasma, stabilité et customisation
 
@@ -51,6 +75,13 @@ Windows en version stock mais qui peut être vraiment customisé.
 > 
 > - Peut  causer des problèmes de performance sur de vieux systèmes
 
+<table>
+  </tr>
+    <tr>
+    <td>Plus</td>
+    <td>Moins</td>
+  </tr>
+</table>
 
 ## 3. I3, le maitre de la productivité
 
@@ -75,6 +106,13 @@ navigation avec votre clavier exclusivement.
 > - Compliqué pour les débutants sur GNU/Linux
 > - Courbe d'apprentissage d'utilisation plutôt longue
 
+<table>
+  </tr>
+    <tr>
+    <td>Plus</td>
+    <td>Moins</td>
+  </tr>
+</table>
 
 ## 4. GNOME, la simplicité pour le grand public
 
@@ -96,6 +134,13 @@ Gnome est maintenant développé en collaboration avec Canonical, les développe
 >
 > - L'un des DE avec les pires performances
 
+<table>
+  </tr>
+    <tr>
+    <td>Plus</td>
+    <td>Moins</td>
+  </tr>
+</table>
 
 ## 5. Deepin, le petit frère chinois de Gnome
 
@@ -115,6 +160,14 @@ Deepin est un un DE les plus avancé et récent développé pour leur propre dis
 >
 > - Utiliser Deepin avec sa distribution peut être un problème pour vos données 
 > (entreprise chinoise)
+
+<table>
+  </tr>
+    <tr>
+    <td>Plus</td>
+    <td>Moins</td>
+  </tr>
+</table>
 
 
 ## 6. Cinnamon, Windows ?? C'est quoi ça ?
@@ -139,26 +192,10 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 > - Performances similaires à GNOME -> c'est LOURD
 > - Ça ressemble BEAUCOUP à Windows
 
-| col1 | col2 | col3|
-|------|------|-----|
-| xfce | gnome|cinnamon|
-
 <table>
-<tr>
-<td> xfce </td>
-<td> gnome </td>
-</tr>
-<tr>
-<td> xfce </td>
-<td> gnome </td>
-</tr>
-<tr>
-<td> xfce </td>
-<td> gnome </td>
-</tr>
-<tr>
-<td> xfce </td>
-<td> gnome </td>
-</tr>
+  </tr>
+    <tr>
+    <td>Plus</td>
+    <td>Moins</td>
+  </tr>
 </table>
-
