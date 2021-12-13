@@ -117,8 +117,6 @@ Deepin est un un DE les plus avancé et récent développé pour leur propre dis
 > (entreprise chinoise)
 
 
-> [Download the Deepin ISO here](http://cdimage.deepin.com/releases/20.3/deepin-desktop-community-20.3-amd64.iso)
-
 ## 6. Cinnamon, Windows ?? C'est quoi ça ?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg" width=250 height=250/>
