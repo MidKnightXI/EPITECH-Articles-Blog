@@ -155,14 +155,14 @@ Choisir sa distribution Linux peut être complexe.<br>
 En réalité, le meilleur moyen reste d'essayer une distro qui nous intéresse. Dans une VM, sur une autre machine, en dual boot ou en live.
 
 Voici un légèr schéma ultra simpliste des questions à se poser pour faire son choix.
-Et puis l'avantage de Linux, c'est que la séparation des partitions vous permettera de changer de distro sans perdre un seul fichier et de devoir tout recommencer.
+<br>Et puis l'avantage de Linux, c'est que la séparation des partitions vous permettera de changer de distro sans perdre un seul fichier et de devoir tout recommencer.
 
 [![Schema de choix de distro](schema.png "Schéma de choix de distro")][10]
 
 Pour connaitre d'avantages de distro, mieux vaut faire un tour sur [DistroWatch][9]
-<br>Ce site repertorie quasiment toutes les distro existantes.
+<br>Ce site repertorie quasiment toutes les distro existantes.<br><br>
 
-# <br><br>Références
+# Références
 - https://archlinux.org/download/
 - https://fr.wikipedia.org/wiki/Red_Hat
 - https://getfedora.org/fr/workstation/download/
