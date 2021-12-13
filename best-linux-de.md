@@ -8,7 +8,7 @@ Ce top n'est réalisé qu'à partir de mes préférences en tant que développeu
 pas forcément adéquat pour tout le monde.
 
 
-## 1. XFCE, la fluidité et les performances avant tout
+## 1. [XFCE][15], la fluidité et les performances avant tout
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xfce_logo.svg" width=250 height=250/>
 
@@ -44,7 +44,7 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC.
   </tr>
 </table>
 
-## 2. KDE Plasma, stabilité et customisation
+## 2. [KDE Plasma][16], stabilité et customisation
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg" width=250 height=250/>
 
@@ -73,7 +73,7 @@ C'est l'un des DE les plus appréciés de la communauté Linux grâce à son int
   </tr>
 </table>
 
-## 3. I3, le maitre de la productivité
+## 3. [I3][17], le maitre de la productivité
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width=250 height=250/>
 
@@ -101,7 +101,7 @@ La navigation sur I3 se fait exclusivement au clavier via des raccourcis
   </tr>
 </table>
 
-## 4. GNOME, le minimalisme pour le grand public
+## 4. [GNOME][18], le minimalisme pour le grand public
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" width=250 height=250/>
 
@@ -126,7 +126,7 @@ Gnome est maintenant développé en collaboration avec [Canonical][9], les déve
   </tr>
 </table>
 
-## 5. Deepin, le minimalisme compact
+## 5. [Deepin][19], le minimalisme compact
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width=250 height=250/>
 
@@ -151,7 +151,7 @@ Deepin est un DE récent qui est toujours en recherche d'améliorations et a ét
 </table>
 
 
-## 6. Cinnamon, le Windows-like
+## 6. [Cinnamon][20], le Windows-like
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg" width=250 height=250/>
 
@@ -178,12 +178,18 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 
 # Références
 
-- [Wiki XFCE][1] 
-- [Wiki KDE][2] 
+- [Wiki XFCE][1]
+- [XFCE][15]
+- [Wiki KDE][2]
+- [KDE][16]
 - [Wiki I3][3] 
+- [I3][17]
 - [Wiki GNOME][4] 
+- [GNOME][18]
 - [Wiki Deepin][5] 
+- [Deepin][19]
 - [Wiki Cinnamon][6]
+- [Cinnamon][20]
 - [Common Desktop][7]
 - [macOS][8]
 - [Canonical][9]
@@ -207,3 +213,9 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 [12]: https://linuxmint.com/
 [13]: https://www.microsoft.com/en-us/windows/windows-11
 [14]: https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau
+[15]: https://www.xfce.org/
+[16]: https://kde.org/fr/plasma-desktop/
+[17]: https://i3wm.org/
+[18]: https://www.gnome.org/
+[19]: https://www.deepin.org/en/dde/
+[20]: https://developer.linuxmint.com/edition.php?id=288
