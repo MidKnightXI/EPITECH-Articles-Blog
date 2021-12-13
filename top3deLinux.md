@@ -1,4 +1,4 @@
-# best Desktop Environnement on Linux
+# Les meilleurs Desktop Environnement sur Linux
 
 Tout au long de mes années à EPITECH j'ai pû tester de nombreuses distribution linux ainsi
 que différents Desktop Environnements, je vais donc vous faire un top des DE que j'ai le
