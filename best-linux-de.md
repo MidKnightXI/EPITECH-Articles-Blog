@@ -240,3 +240,12 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
     <td></td>
   </tr>
 </table>
+
+# Références
+
+- [Wiki XFCE](https://en.wikipedia.org/wiki/Xfce) 
+- [Wiki KDE](https://en.wikipedia.org/wiki/KDE) 
+- [Wiki I3](https://en.wikipedia.org/wiki/I3_(window_manager)) 
+- [Wiki GNOME](https://en.wikipedia.org/wiki/GNOME) 
+- [Wiki Deepin](https://en.wikipedia.org/wiki/Deepin) 
+- [Wiki Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment))
