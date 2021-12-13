@@ -113,4 +113,4 @@ Développé pour la distribution Linux Mint, Cinnamon a été dev dans l'intente
 > ### Les -
 >
 > - performances similaires à GNOME -> c'est LOURD
-> - ça ressemble à BEAUCOUP à Windows
+> - ça ressemble BEAUCOUP à Windows
