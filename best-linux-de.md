@@ -12,8 +12,8 @@ pas forcément adéquat pour tout le monde.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xfce_logo.svg" width=250 height=250/>
 
-Sorti en 1996, XFCE a été développé pour ressembler le plus possible à [Common Desktop](https://en.wikipedia.org/wiki/Common_Desktop_Environment) et aux
-premières interfaces de [macOS](https://www.apple.com/macos/monterey/).
+Sorti en 1996, XFCE a été développé pour ressembler le plus possible à [Common Desktop][7] et aux
+premières interfaces de [macOS][8].
 
 XFCE est un des DE les moins gourmant en mémoire vive et est le
 plus souvent utilisé pour redonner une seconde vie à de vieux PC.
@@ -51,7 +51,7 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC.
 Sorti en 1998, KDE Plasma possède 3 versions dont une pour tablette.
 
 C'est l'un des DE les plus appréciés de la communauté Linux grâce à son interface similaire à
-[Windows](https://www.microsoft.com/en-us/windows/windows-11) en version stock mais qui peut être vraiment customisé.
+[Windows][13] en version stock mais qui peut être vraiment customisé.
 
 
 <table>
@@ -108,7 +108,7 @@ La navigation sur I3 se fait exclusivement au clavier via des raccourcis
 Sorti en 1999, GNOME a toujours été critiqué pour sa simplicité au niveau de son interface par
 la communauté Linux mais est un des DE les plus utilisé aujourd'hui, grâce à son système d'extensions.
 
-Gnome est maintenant développé en collaboration avec [Canonical](https://canonical.com/), les développeurs d'[Ubuntu](https://ubuntu.com/).
+Gnome est maintenant développé en collaboration avec [Canonical][9], les développeurs d'[Ubuntu][10].
 
 
 <table>
@@ -130,7 +130,7 @@ Gnome est maintenant développé en collaboration avec [Canonical](https://canon
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width=250 height=250/>
 
-Développé par [Wuhan Deepin Technology](https://www.deepin.org/en/aboutus/) depuis 2004.
+Développé par [Wuhan Deepin Technology][11] depuis 2004.
 
 Deepin est un DE récent qui est toujours en recherche d'améliorations et a été créé pour la distribution du même nom.
 
@@ -156,8 +156,8 @@ Deepin est un DE récent qui est toujours en recherche d'améliorations et a ét
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg" width=250 height=250/>
 
 
-Développé pour la distribution [Linux Mint](https://linuxmint.com/), Cinnamon a été développé dans l'intentention de ressembler
-à [Windows](https://www.microsoft.com/en-us/windows/windows-11), en utilisant la [métaphore du bureau](https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau).
+Développé pour la distribution [Linux Mint][12], Cinnamon a été développé dans l'intentention de ressembler
+à [Windows][13], en utilisant la [métaphore du bureau][14].
 
 Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 2011.
 
@@ -178,17 +178,32 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 
 # Références
 
-- [Wiki XFCE](https://en.wikipedia.org/wiki/Xfce) 
-- [Wiki KDE](https://en.wikipedia.org/wiki/KDE) 
-- [Wiki I3](https://en.wikipedia.org/wiki/I3_(window_manager)) 
-- [Wiki GNOME](https://en.wikipedia.org/wiki/GNOME) 
-- [Wiki Deepin](https://en.wikipedia.org/wiki/Deepin) 
-- [Wiki Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment))
-- [Common Desktop](https://en.wikipedia.org/wiki/Common_Desktop_Environment)
-- [macOS](https://www.apple.com/macos/monterey/)
-- [Canonical](https://canonical.com/)
-- [Ubuntu](https://ubuntu.com/)
-- [Wuhan Deepin Technology](https://www.deepin.org/en/aboutus/)
-- [Linux Mint](https://linuxmint.com/)
-- [Windows](https://www.microsoft.com/en-us/windows/windows-11)
-- [métaphore du bureau](https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau)
+- [Wiki XFCE][1] 
+- [Wiki KDE][2] 
+- [Wiki I3][3] 
+- [Wiki GNOME][4] 
+- [Wiki Deepin][5] 
+- [Wiki Cinnamon][6]
+- [Common Desktop][7]
+- [macOS][8]
+- [Canonical][9]
+- [Ubuntu][10]
+- [Wuhan Deepin Technology][11]
+- [Linux Mint][12]
+- [Windows][13]
+- [métaphore du bureau][14]
+
+[1]: https://en.wikipedia.org/wiki/Xfce
+[2]: https://en.wikipedia.org/wiki/KDE
+[3]: https://en.wikipedia.org/wiki/I3_(window_manager)
+[4]: https://en.wikipedia.org/wiki/GNOME
+[5]: https://en.wikipedia.org/wiki/Deepin
+[6]: https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)
+[7]: https://en.wikipedia.org/wiki/Common_Desktop_Environment
+[8]: https://www.apple.com/macos
+[9]: https://canonical.com/
+[10]: https://ubuntu.com/
+[11]: https://www.deepin.org/en/aboutus/
+[12]: https://linuxmint.com/
+[13]: https://www.microsoft.com/en-us/windows/windows-11
+[14]: https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau
