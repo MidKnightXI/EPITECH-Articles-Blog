@@ -9,7 +9,7 @@ Voici donc selon moi le classement des top distro linux mainstream, pour une uti
 
 ## Distro #1 : Ubuntu
 
-![Ubuntu Logo](https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Logo.png "Ubuntu Logo")
+<img src="https://logos-world.net/wp-content/uploads/2020/11/Ubuntu-Logo.png" alt="Ubuntu Logo" width="250"/>
 
 Première sortie le **20 octobre 2004**<br>
 Crée et maintenue par la société [**CANONICAL**](https://canonical.com/)
@@ -17,27 +17,55 @@ Crée et maintenue par la société [**CANONICAL**](https://canonical.com/)
 Elle est désormais la distribution linux la plus connue au monde pour sa simplicité d'utilisation
 <br>Deux versions disponibles : une normale mise à jour tous les 6 mois et une LTS tous les 2 ans
 
-> ### Les Plus
-> - Simple d'utilisation
-> - Complète pour tous les usages
-> - Stabilité accrue
+<table>
+  <tr>
+    <td><b>Plus</b></td>
+    <td><b>Moins</b></td>
+  </tr>
+  <tr>
+    <td>Simple d'utilisation</td>
+    <td>Gestion du réseau capricieuse</td>
+  </tr>
+  <tr>
+    <td>Complète pour tous les usages</td>
+    <td>Envoi de données à Canonical activé par défaut</td>
+  </tr>
+  <tr>
+    <td>Polyvalence</td>
+    <td></td>
+  </tr>
+</table>
 
-
-> ### Les Moins
-> - Gestion du réseau capricieuse
-> - Envoi de données de mesures à Canonical activé par défaut
-
-### [Télécharger Ubuntu](https://ubuntu.com/download/desktop)
+> ### [Télécharger Ubuntu](https://ubuntu.com/download/desktop)
 
 ## <br>Distro #2 : Debian
 
-![Debian Logo](https://www.recia.fr/wp-content/uploads/2015/06/debian-logo-horizontal.gif "Debian Logo")
+<img src="https://www.linuxpedia.fr/lib/exe/fetch.php/debian/debian.png" alt="Debian Logo" width="250"/>
 
-Première sortie le **16 août 1993**<br>
+<br>Première sortie le **16 août 1993**<br>
 Crée par [**Ian Murdock**](https://fr.wikipedia.org/wiki/Ian_Murdock)
 
 Distro aujourd'hui mère de milliers d'autres distributions.<br>
 Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnaissance de stabilité et de performance.
+
+<table>
+  <tr>
+    <td><b>Plus</b></td>
+    <td><b>Moins</b></td>
+  </tr>
+  <tr>
+    <td>Simple d'installation</td>
+    <td>Deux gestionnaires de paquets créant une confusion</td>
+  </tr>
+  <tr>
+    <td>Complète pour tous les usages</td>
+    <td>Envoi de données à Canonical activé par défaut</td>
+  </tr>
+  <tr>
+    <td>Polyvalence</td>
+    <td></td>
+  </tr>
+</table>
 
 > ### Les Plus
 > - Simple d'utilisation
@@ -56,9 +84,9 @@ Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnais
 
 ## <br>Distro #3 : Arch Linux
 
-![Arch Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Arch_Linux_logo.svg "Arch Logo")
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Arch_Linux_logo.svg" alt="Arch Logo" width="250"/>
 
-Première sortie en **Mars 2002**<br>
+<br>Première sortie en **Mars 2002**<br>
 Crée par [**Judd Vinet**](https://fr.wikipedia.org/wiki/Judd_Vinet)
 
 Distro connue pour sa complexité d'installation et sa tendance à l'autodestruction
@@ -79,9 +107,9 @@ Distro connue pour sa complexité d'installation et sa tendance à l'autodestruc
 
 ## <br>Distro #4 : [Fedora][3]
 
-![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/8/8f/Fedora_logo_%282021%29.svg?uselang=fr "Fedora Logo")
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Fedora_logo_%282021%29.svg" alt="Fedora Logo" width="250"/>
 
-Première sortie en **2002**<br>
+<br>Première sortie en **2002**<br>
 Crée par [**Red Hat**][2]
 
 Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
