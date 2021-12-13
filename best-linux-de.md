@@ -42,15 +42,15 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC.
     </td>
   </tr>
   <tr>
-    <td>Interface simple</td>
+    <td>Simple</td>
     <td>Design dépassé</td>
   </tr>
   <tr>
-    <td>Léger/fluide</td>
+    <td>Léger/Fluide</td>
     <td>UX déroutante</td>
   </tr>
   <tr>
-    <td>Interface totalement configurable</td>
+    <td>Customisation</td>
     <td></td>
   </tr>
 </table>
@@ -77,9 +77,20 @@ Windows en version stock mais qui peut être vraiment customisé.
 
 <table>
   </tr>
-    <tr>
     <td>Plus</td>
     <td>Moins</td>
+  </tr>
+  <tr>
+    <td>Simple</td>
+    <td>Performances</td>
+  </tr>
+  <tr>
+    <td>Stable</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Customisation</td>
+    <td></td>
   </tr>
 </table>
 
@@ -91,8 +102,7 @@ Sorti en 2009 et écrit exclusivement en C, i3 est un DE plutôt niche.
 
 Comment ça, naviguer avec un clavier ?
 
-Et oui i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous permettera de faire une
-navigation avec votre clavier exclusivement.
+Et oui, i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous permettera de faire une navigation avec votre clavier exclusivement.
 
 > ### Les Plus
 >
@@ -107,14 +117,25 @@ navigation avec votre clavier exclusivement.
 > - Courbe d'apprentissage d'utilisation plutôt longue
 
 <table>
-  </tr>
-    <tr>
+  <tr>
     <td>Plus</td>
     <td>Moins</td>
   </tr>
+  <tr>
+    <td>Performances</td>
+    <td>Complexe à utiliser</td>
+  </tr>
+  <tr>
+    <td>Raccourcis clavier</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Customisation</td>
+    <td></td>
+  </tr>
 </table>
 
-## 4. GNOME, la simplicité pour le grand public
+## 4. GNOME, le minimalisme pour le grand public
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" width=250 height=250/>
 
@@ -127,7 +148,6 @@ Gnome est maintenant développé en collaboration avec Canonical, les développe
 >
 > - Simple d'utilisation
 > - User friendly
-> - Interface simple d'utilisation
 
 
 > ### Les Moins
@@ -135,10 +155,17 @@ Gnome est maintenant développé en collaboration avec Canonical, les développe
 > - L'un des DE avec les pires performances
 
 <table>
-  </tr>
-    <tr>
+  <tr>
     <td>Plus</td>
     <td>Moins</td>
+  </tr>
+  <tr>
+    <td>Simple</td>
+    <td>Performances</td>
+  </tr>
+  <tr>
+    <td>UI/UX minimaliste</td>
+    <td></td>
   </tr>
 </table>
 
@@ -162,10 +189,17 @@ Deepin est un un DE les plus avancé et récent développé pour leur propre dis
 > (entreprise chinoise)
 
 <table>
-  </tr>
-    <tr>
+  <tr>
     <td>Plus</td>
     <td>Moins</td>
+  </tr>
+  <tr>
+    <td>Simple</td>
+    <td>Close-Source</td>
+  </tr>
+  <tr>
+    <td>UI/UX simpliste</td>
+    <td></td>
   </tr>
 </table>
 
@@ -189,13 +223,24 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 
 > ### Les Moins
 >
-> - Performances similaires à GNOME -> c'est LOURD
-> - Ça ressemble BEAUCOUP à Windows
+> - Performances similaires à GNOME
+> - Très similaire à Windows
 
 <table>
-  </tr>
-    <tr>
+  <tr>
     <td>Plus</td>
     <td>Moins</td>
+  </tr>
+  <tr>
+    <td>User friendly</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Bonne UI/UX</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
 </table>
