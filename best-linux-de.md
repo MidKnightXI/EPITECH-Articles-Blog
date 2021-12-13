@@ -5,30 +5,19 @@ que différents Desktop Environnements, je vais donc vous faire un top des DE qu
 plus apprécié.
 
 Ce top n'est réalisé qu'à partir de mes préférences en tant que développeur et n'est donc
-pas forcément adéquate pour tout le monde.
+pas forcément adéquat pour tout le monde.
 
 
 ## 1. XFCE, la fluidité et les performances avant tout
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xfce_logo.svg" width=250 height=250/>
 
-Sorti en 1996, XFCE a été développé pour ressembler le plus possible à Common Desktop et aux
-premières interfaces de macOS.
+Sorti en 1996, XFCE a été développé pour ressembler le plus possible à [Common Desktop](https://en.wikipedia.org/wiki/Common_Desktop_Environment) et aux
+premières interfaces de [macOS](https://www.apple.com/macos/monterey/).
 
 XFCE est un des DE les moins gourmant en mémoire vive et est le
 plus souvent utilisé pour redonner une seconde vie à de vieux PC.
 
-> ### Les Plus
->
-> - Interface simpliste
-> - Peu consomateur en performances
-> - Configurable de A à Z
-
-
-> ### Les Moins
->
-> - Le design de l'interface peu paraitre vieillot
-> - Les menus peuvent être parfois déroutants
 
 <table>
   <tr>
@@ -62,18 +51,8 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC.
 Sorti en 1998, KDE Plasma possède 3 versions dont une pour tablette.
 
 C'est l'un des DE les plus appréciés de la communauté Linux grâce à son interface similaire à
-Windows en version stock mais qui peut être vraiment customisé.
+[Windows](https://www.microsoft.com/en-us/windows/windows-11) en version stock mais qui peut être vraiment customisé.
 
-> ### Les Plus
-> 
-> - Simple d'utilisation
-> - Très stable
-> - Customisable
-
-
-> ### Les Moins
-> 
-> - Peut  causer des problèmes de performance sur de vieux systèmes
 
 <table>
   </tr>
@@ -98,23 +77,10 @@ Windows en version stock mais qui peut être vraiment customisé.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width=250 height=250/>
 
-Sorti en 2009 et écrit exclusivement en C, i3 est un DE plutôt niche.
+Sorti en 2009 et écrit exclusivement en C, i3 est un Window Manager plutôt niche et est considéré par la plupart comme un DE.
 
-Comment ça, naviguer avec un clavier ?
+La navigation sur I3 se fait exclusivement au clavier via des raccourcis
 
-Et oui, i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous permettera de faire une navigation avec votre clavier exclusivement.
-
-> ### Les Plus
->
-> - Léger/bonnes performances sur d'anciens système
-> - Raccourcis clavier qui facilitent la vie
-> - Personalisable de A à Z
-
-
-> ### Les Moins
->
-> - Compliqué pour les débutants sur GNU/Linux
-> - Courbe d'apprentissage d'utilisation plutôt longue
 
 <table>
   <tr>
@@ -140,19 +106,10 @@ Et oui, i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous perm
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" width=250 height=250/>
 
 Sorti en 1999, GNOME a toujours été critiqué pour sa simplicité au niveau de son interface par
-la communauté Linux mais est un des DE les plus utilisé aujourd'hui.
+la communauté Linux mais est un des DE les plus utilisé aujourd'hui, grâce à son système d'extensions.
 
-Gnome est maintenant développé en collaboration avec Canonical, les développeurs d'Ubuntu.
+Gnome est maintenant développé en collaboration avec [Canonical](https://canonical.com/), les développeurs d'[Ubuntu](https://ubuntu.com/).
 
-> ### Les Plus
->
-> - Simple d'utilisation
-> - User friendly
-
-
-> ### Les Moins
->
-> - L'un des DE avec les pires performances
 
 <table>
   <tr>
@@ -169,24 +126,14 @@ Gnome est maintenant développé en collaboration avec Canonical, les développe
   </tr>
 </table>
 
-## 5. Deepin, le petit frère chinois de Gnome
+## 5. Deepin, le minimalisme compact
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width=250 height=250/>
 
-Développé par Deepin Wuhuan Technology depuis 2004.
+Développé par [Wuhan Deepin Technology](https://www.deepin.org/en/aboutus/) depuis 2004.
 
-Deepin est un un DE les plus avancé et récent développé pour leur propre distribution possédant le même nom.
+Deepin est un DE récent qui est toujours en recherche d'améliorations et a été créé pour la distribution du même nom.
 
-> ### Les Plus
->
-> - Simple d'utilisation pour des débutant
-> - Bonne UI/UX
-
-
-> ### Les Moins
->
-> - Utiliser Deepin avec sa distribution peut être un problème pour vos données 
-> (entreprise chinoise)
 
 <table>
   <tr>
@@ -204,27 +151,15 @@ Deepin est un un DE les plus avancé et récent développé pour leur propre dis
 </table>
 
 
-## 6. Cinnamon, Windows ?? C'est quoi ça ?
+## 6. Cinnamon, le Windows-like
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg" width=250 height=250/>
 
 
-Développé pour la distribution Linux Mint, Cinnamon a été dev dans l'intentention de ressembler
-à Windows.
+Développé pour la distribution [Linux Mint](https://linuxmint.com/), Cinnamon a été développé dans l'intentention de ressembler
+à [Windows](https://www.microsoft.com/en-us/windows/windows-11), en utilisant la [métaphore du bureau](https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau).
 
 Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 2011.
-
-> ### Les Plus
->
-> - Super pour une transition de Windows à Linux
-> - UI/UX satisfaisante
-> - Simple d'utilisation
-
-
-> ### Les Moins
->
-> - Performances similaires à GNOME
-> - Très similaire à Windows
 
 <table>
   <tr>
@@ -249,3 +184,11 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 - [Wiki GNOME](https://en.wikipedia.org/wiki/GNOME) 
 - [Wiki Deepin](https://en.wikipedia.org/wiki/Deepin) 
 - [Wiki Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment))
+- [Common Desktop](https://en.wikipedia.org/wiki/Common_Desktop_Environment)
+- [macOS](https://www.apple.com/macos/monterey/)
+- [Canonical](https://canonical.com/)
+- [Ubuntu](https://ubuntu.com/)
+- [Wuhan Deepin Technology](https://www.deepin.org/en/aboutus/)
+- [Linux Mint](https://linuxmint.com/)
+- [Windows](https://www.microsoft.com/en-us/windows/windows-11)
+- [métaphore du bureau](https://fr.wikipedia.org/wiki/Environnement_de_bureau#M%C3%A9taphore_du_bureau)
