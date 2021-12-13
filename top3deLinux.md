@@ -10,7 +10,7 @@ pas forcément adéquate pour tout le monde.
 
 ## 1. XFCE, la fluidité et les performances avant tout
 
-![XFCE logo png](https://upload.wikimedia.org/wikipedia/commons/5/5b/Xfce_logo.svg "XFCE logo")
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Xfce_logo.svg" width=250 height=250/>
 
 Sorti en 1996, XFCE a été développé pour ressembler le plus possible à Common Desktop et aux
 premières interfaces de macOS. XFCE est un des DE les moins gourmant en mémoire vive et est le
@@ -31,6 +31,8 @@ plus souvent utilisé pour redonner une seconde vie à de vieux PC
 
 ## 2. KDE Plasma, stabilité et customisation
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg" width=250 height=250/>
+
 Sorti en 1998, KDE Plasma possède 3 versions dont une pour tablette. Cc'est l'un des DE les plus
 appréciés de la communauté Linux grâce à son interface similaire à Windows en version stock mais
 qui peut être vraiment customisé.
@@ -48,6 +50,8 @@ qui peut être vraiment customisé.
 
 
 ## 3. I3, le maitre de la productivité
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width=250 height=250/>
 
 Sorti en 2009 et écrit exclusivement en C, i3 est un DE plutôt niche. Naviguer avec un clavier ?
 Et oui i3 possède des raccourcis pour tout et n'importe quoi, ce qui vous permettera de faire une
@@ -68,6 +72,8 @@ navigation avec votre clavier exclusivement.
 
 ## 4. GNOME, la simplicité pour le grand public
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" width=250 height=250/>
+
 Sorti en 1999, GNOME a toujours été critiqué pour sa simplicité au niveau de son interface par
 la communauté Linux mais est un des DE les plus utilisé aujourd'hui.
 
@@ -85,6 +91,8 @@ la communauté Linux mais est un des DE les plus utilisé aujourd'hui.
 
 ## 5. Deepin, le petit frère chinois de Gnome
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deepin_logo.svg" width=250 height=250/>
+
 Développé par Deepin Wuhuan Technology en 2004, Deepin est un un DE les plus avancé et récent
 développé pour leur propre distribution possédant le même nom
 
@@ -101,6 +109,8 @@ développé pour leur propre distribution possédant le même nom
 
 
 ## 6. Cinnamon, Windows ?? C'est quoi ça ?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Cinnamon-logo.svg" width=250 height=250/>
 
 Développé pour la distribution Linux Mint, Cinnamon a été dev dans l'intentention de ressembler
 à Windows. Cinnamon est un dérivé du DE GNOME.
