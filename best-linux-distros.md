@@ -29,8 +29,7 @@ Elle est désormais la distribution linux la plus connue au monde pour sa simpli
 
 ### [Télécharger Ubuntu](https://ubuntu.com/download/desktop)
 
-
-## Distro #2 : Debian
+## <br>Distro #2 : Debian
 
 ![Debian Logo](https://www.recia.fr/wp-content/uploads/2015/06/debian-logo-horizontal.gif "Debian Logo")
 
@@ -55,7 +54,7 @@ Elle est la plus connue et utilisée dans le monde des serveurs par sa reconnais
 ### [Télécharger Debian](https://www.debian.org/CD/http-ftp/)
 
 
-## Distro #3 : Arch Linux
+## <br>Distro #3 : Arch Linux
 
 ![Arch Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Arch_Linux_logo.svg "Arch Logo")
 
@@ -78,7 +77,7 @@ Distro connue pour sa complexité d'installation et sa tendance à l'autodestruc
 ### [Télécharger Arch Linux](https://archlinux.org/download/)
 
 
-## Distro #4 : Fedora
+## <br>Distro #4 : Fedora
 
 ![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/8/8f/Fedora_logo_%282021%29.svg?uselang=fr "Fedora Logo")
 
@@ -101,9 +100,15 @@ Distro fiable et complète, version desktop gratuite de RedHat Entreprise Linux
 
 <br><br>
 
-## Récapitulatif
+## Comment trouver sa distro ?
 
-|   Distro   |  Robustesse  |  Sécurité  | ...  | 
-|------------:--------------:------------:------|
-| Distro #1  |              |            |      |
-|    ...     |    ...       |    ...     |  ... |
+Choisir sa distribution Linux peut être complexe.<br>
+En réalité, le meilleur moyen reste d'essayer une distro qui nous intéresse. Dans une VM, sur une autre machine, en dual boot ou en live.
+
+Voici un légèr schéma ultra simpliste des questions à se poser pour faire son choix.
+Et puis l'avantage de Linux, c'est que la séparation des partitions vous permettera de changer de distro sans perdre un seul fichier et de devoir tout recommencer.
+
+![Schema de choix de distro](schema.png "Schéma de choix de distro")
+
+Pour connaitre d'avantages de distro, mieux vaut faire un tour sur [DistroWatch](https://distrowatch.com)
+<br>Ce site repertorie quasiment toutes les distro existantes.
