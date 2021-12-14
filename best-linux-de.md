@@ -200,7 +200,7 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
     </tr>
     <tr>
       <td>XFCE</td>
-      <td style="text-align:center">++</td>
+      <td style="text-align:center">+</td>
       <td style="text-align:center">+++</td>
       <td style="text-align:center">+++</td>
       <td style="text-align:center">+++</td>
@@ -208,37 +208,37 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
     <tr>
       <td>KDE</td>
       <td style="text-align:center">+++</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">+</td>
       <td style="text-align:center">++</td>
-      <td style="text-align:center">+++</td>
-      <td style="text-align:center">+++</td>
     </tr>
     <tr>
       <td>I3</td>
-      <td style="text-align:center">+</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">+</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">+++</td>
     </tr>
     <tr>
       <td>GNOME</td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">+</td>
-      <td style="text-align:center">+++</td>
-      <td style="text-align:center">+++</td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">++</td>
+      <td style="text-align:center">++</td>
     </tr>
     <tr>
       <td>Deepin</td>
+      <td style="text-align:center">++</td>
+      <td style="text-align:center">+</td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">++</td>
-      <td style="text-align:center">++</td>
       <td style="text-align:center">++</td>
     </tr>
     <tr>
       <td>Cinnamon</td>
-      <td style="text-align:center">+++</td>
       <td style="text-align:center">+</td>
-      <td style="text-align:center">+++</td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">++</td>
+      <td style="text-align:center"></td>
     </tr>
   </table>
 
