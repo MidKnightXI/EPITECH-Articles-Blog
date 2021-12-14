@@ -162,6 +162,70 @@ Voici un légèr schéma ultra simpliste des questions à se poser pour faire so
 Pour connaitre d'avantages de distro, mieux vaut faire un tour sur [DistroWatch][9]
 <br>Ce site repertorie quasiment toutes les distro existantes.<br><br>
 
+# Conclusion
+
+Voici un légèer résumé sous forme de tableau des principales caractéristiques de chaque distro.
+<br>Note pour l'UX/UI, nous parlons ici des distro et non des Desktop Environment
+
+<table>
+  <tr>
+    <td><b></b></td>
+    <td><b>UBUNTU</b></td>
+    <td><b>DEBIAN</b></td>
+    <td><b>ARCH</b></td>
+    <td><b>FEDORA</b></td>
+  </tr>
+  <tr>
+    <td>Performance</td>
+    <td>+</td>
+    <td>+</td>
+    <td>++</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Simplicité d'utilisation</td>
+    <td>+++</td>
+    <td>++</td>
+    <td></td>
+    <td>+++</td>
+  </tr>
+  <tr>
+    <td>Simplicité d'installation</td>
+    <td>+++</td>
+    <td>++</td>
+    <td></td>
+    <td>++</td>
+  </tr>
+  <tr>
+    <td>UX/UI</td>
+    <td>+++</td>
+    <td>+</td>
+    <td></td>
+    <td>+</td>
+  </tr>
+  <tr>
+    <td>Customisation</td>
+    <td></td>
+    <td>++</td>
+    <td>+++</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Compatibilité Matérielle</td>
+    <td>+</td>
+    <td>++</td>
+    <td>+++</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stabilité</td>
+    <td>+</td>
+    <td>+++</td>
+    <td></td>
+    <td>+</td>
+  </tr>
+</table>
+
 # Références
 - https://archlinux.org/download/
 - https://fr.wikipedia.org/wiki/Red_Hat
