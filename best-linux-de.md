@@ -197,7 +197,61 @@ Cinnamon est un dérivé du DE GNOME et est apparu pour la première fois en 201
 - [Wuhan Deepin Technology][11]
 - [Linux Mint][12]
 - [Windows][13]
-- [métaphore du bureau][14]
+- [Métaphore du bureau][14]
+  
+  # Récapitulatif
+
+  <table>
+    <tr>
+      <td>Desktop Environment</td>
+      <td>UI/UX</td>
+      <td>Performances</td>
+      <td>Simplicité</td>
+      <td>Stabilité</td>
+    </tr>
+    <tr>
+      <td>XFCE</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">o</td>
+      <td style="text-align:center">+</td>
+    </tr>
+    <tr>
+      <td>KDE</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">+</td>
+    </tr>
+    <tr>
+      <td>I3</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">o</td>
+    </tr>
+    <tr>
+      <td>GNOME</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">+</td>
+    </tr>
+    <tr>
+      <td>Deepin</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">o</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">+</td>
+    </tr>
+    <tr>
+      <td>Cinnamon</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">+</td>
+      <td style="text-align:center">o</td>
+    </tr>
+  </table>
 
 [1]: https://en.wikipedia.org/wiki/Xfce
 [2]: https://en.wikipedia.org/wiki/KDE
