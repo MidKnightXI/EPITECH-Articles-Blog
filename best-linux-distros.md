@@ -164,7 +164,7 @@ Pour connaitre d'avantages de distro, mieux vaut faire un tour sur [DistroWatch]
 
 # Conclusion
 
-Voici un légèer résumé sous forme de tableau des principales caractéristiques de chaque distro.
+Voici un léger résumé sous forme de tableau des principales caractéristiques de chaque distro.
 <br>Note pour l'UX/UI, nous parlons ici des distro et non des Desktop Environment
 
 <table>
