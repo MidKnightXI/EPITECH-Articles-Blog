@@ -202,14 +202,14 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
       <td>XFCE</td>
       <td style="text-align:center">++</td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">++</td>
-      <td style="text-align:center">+</td>
+      <td style="text-align:center">+++</td>
+      <td style="text-align:center">+++</td>
     </tr>
     <tr>
       <td>KDE</td>
       <td style="text-align:center">+++</td>
       <td style="text-align:center">++</td>
-      <td style="text-align:center">++</td>
+      <td style="text-align:center">+++</td>
       <td style="text-align:center">++</td>
     </tr>
     <tr>
