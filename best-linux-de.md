@@ -210,7 +210,7 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
       <td style="text-align:center">+++</td>
       <td style="text-align:center">++</td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">++</td>
+      <td style="text-align:center">+++</td>
     </tr>
     <tr>
       <td>I3</td>
@@ -224,7 +224,7 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
       <td style="text-align:center">+++</td>
       <td style="text-align:center">+</td>
       <td style="text-align:center">+++</td>
-      <td style="text-align:center">++</td>
+      <td style="text-align:center">+++</td>
     </tr>
     <tr>
       <td>Deepin</td>
