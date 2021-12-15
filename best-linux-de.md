@@ -235,7 +235,7 @@ Pour conclure cette présentation, voici un résumé de ce qui a été dit plus 
     </tr>
     <tr>
       <td>Cinnamon</td>
-      <td style="text-align:center">+</td>
+      <td style="text-align:center">++</td>
       <td style="text-align:center"></td>
       <td style="text-align:center">++</td>
       <td style="text-align:center"></td>
